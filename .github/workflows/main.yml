@@ -7,7 +7,7 @@ on:
         required: true
         default: 'budakjalanannet-create'
       agent_description:
-        description: 'namagithubkamu'
+        description: 'budakjalanannet-create'
         required: true
         default: 'budakjalanannet-create AI Agent'
 jobs:
